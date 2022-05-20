@@ -5,6 +5,7 @@
   ],
   "properties": {
     "unique_actions": {"$ref": "ads_action_stats.json"},
+    "unique_action_values": {"$ref": "ads_action_stats.json"},
     "actions": {"$ref": "ads_action_stats.json"},
     "action_values": {"$ref": "ads_action_stats.json"},
     "conversion_values": {"$ref": "ads_action_stats.json"},
